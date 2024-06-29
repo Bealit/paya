@@ -1,5 +1,5 @@
 # paya
-the last two questions
+2 Soal Akhar:
  / 
 10. Jadval Tabiei
  / 
