@@ -1,6 +1,8 @@
 # paya
-2 Soal Akhar:
- / 
-10. Jadval Tabiei
- / 
-11. Loke Bad Shans
+League Paya /
+ Hashtom Helli 2 /
+  Ali Tajik /
+   Mohammad Hossein Bazrafshan /
+    Mohammad Pooya Payandeh /
+     Mahan Mohammad Taheri /
+      Sam Assadi
