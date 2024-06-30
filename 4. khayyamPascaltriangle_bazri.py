@@ -7,7 +7,6 @@ for i in range(n-2):
     thisRow.append(1)
     rows.append(thisRow)
 rows = rows[:n]
-tmp = str(rows)
 output=""
 for i in rows:
     thisLine=""
@@ -18,3 +17,4 @@ for i in rows:
     output+=thisLine.center(len(str(rows[-1]))-len(rows[-1]))+"\n"
 
 print(output)
+
